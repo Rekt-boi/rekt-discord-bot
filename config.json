@@ -1,6 +1,6 @@
 {
     "bot": {
         "token": "Your Discord Bot Token Here",
-        "id": "Your Discord Bot ID Here"
+        "id": "Your Discord Bot ID Here",
         "prefix": "Your Discord Bot Prefix Here"
 }
