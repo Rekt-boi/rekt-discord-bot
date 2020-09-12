@@ -7,6 +7,6 @@ Before you start, Create a Config.json File and paste this in:
 ```json
 {
     "bot": {
-        "token": "",
-        "id": "533947001578979328"
-}```
+        "token": "Your Discord Bot Token Here",
+        "id": "Your Discord Bot ID Here"
+}
